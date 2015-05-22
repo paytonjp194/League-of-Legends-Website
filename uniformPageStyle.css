@@ -28,7 +28,9 @@ ul#menu li a {
 	color: white;
 	padding: 10px 20px;
 	text-decoration: none;
-	border-radius: 4px 4px 0 0;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: goldenrod;
 }	
 
 ul#menu li a:hover {
